@@ -15,8 +15,10 @@
   "dependencies": {
     "@emotion/core": "^10.0.17",
     "@emotion/styled": "^10.0.17",
-    "@mdx-js/mdx": "^1.5.0",
+    "@mapbox/rehype-prism": "^0.3.1",
+    "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.0",
+    "@mdx-js/tag": "^0.20.3",
     "@observablehq/runtime": "^4.4.4",
     "@robinl/energy-usage-calculator-for-everyday-activities": "https://api.observablehq.com/@robinl/energy-usage-calculator-for-everyday-activities.tgz?v=3",
     "@robinl/flight-distance-calculator": "https://api.observablehq.com/@robinl/flight-distance-calculator.tgz?v=3",
@@ -25,10 +27,18 @@
     "gatsby-design-tokens": "^1.0.8",
     "gatsby-plugin-emotion": "^4.1.9",
     "gatsby-plugin-mdx": "^1.0.47",
+    "gatsby-plugin-mdx-prismjs": "^1.0.4",
     "gatsby-plugin-typography": "^2.3.10",
+    "gatsby-prism-highlight": "^0.1.10",
+    "gatsby-remark-prismjs": "^3.3.18",
     "gatsby-source-filesystem": "^2.1.22",
     "gatsby-transformer-javascript-frontmatter": "^2.1.12",
     "gatsby-transformer-json": "^2.2.8",
+    "gatsby-transformer-remark": "^2.6.28",
+    "mdx-utils": "^0.2.0",
+    "prism-react-renderer": "^1.0.1",
+    "prism-theme-night-owl": "^1.2.0",
+    "prismjs": "^1.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-icons": "^3.7.0",
@@ -40,6 +50,8 @@
     "vega-lite": "^4.0.0-beta.9"
   },
   "devDependencies": {
+    "@mdx-js/loader": "^1.5.1",
+    "loader-utils": "^1.2.3",
     "prettier": "^1.18.2"
   },
   "repository": {
