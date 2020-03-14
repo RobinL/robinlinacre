@@ -1082,30 +1082,48 @@
 
 "@robinl/energy-usage-calculator-for-everyday-activities@https://api.observablehq.com/@robinl/energy-usage-calculator-for-everyday-activities.tgz?v=3":
   version "557.0.0"
+  uid cc17c258ebb851f2b069228353a3679adbbbcd6a
+  resolved "https://api.observablehq.com/@robinl/energy-usage-calculator-for-everyday-activities.tgz?v=3#cc17c258ebb851f2b069228353a3679adbbbcd6a"
 
 "@robinl/flight-distance-calculator@https://api.observablehq.com/@robinl/flight-distance-calculator.tgz?v=3":
   version "1067.0.0"
+  uid c89018c9a5de6d9d0ee2a099550dbb943fab1f54
+  resolved "https://api.observablehq.com/@robinl/flight-distance-calculator.tgz?v=3#c89018c9a5de6d9d0ee2a099550dbb943fab1f54"
 
 "@robinl/how-much-should-carbon-offsetting-cost@https://api.observablehq.com/@robinl/how-much-should-carbon-offsetting-cost.tgz?v=3":
   version "472.0.0"
+  uid "02436d580221ca08ae5a8cecf6ab92c859ed4ccc"
+  resolved "https://api.observablehq.com/@robinl/how-much-should-carbon-offsetting-cost.tgz?v=3#02436d580221ca08ae5a8cecf6ab92c859ed4ccc"
 
 "@robinl/interactive-blogging-with-observable-notebooks-and-gatsb@https://api.observablehq.com/@robinl/interactive-blogging-with-observable-notebooks-and-gatsb.tgz?v=3":
   version "518.0.0"
+  uid "6c1d557bd6d1db907401f934ea55b623efc26066"
+  resolved "https://api.observablehq.com/@robinl/interactive-blogging-with-observable-notebooks-and-gatsb.tgz?v=3#6c1d557bd6d1db907401f934ea55b623efc26066"
 
 "@robinl/my-flights@https://api.observablehq.com/@robinl/my-flights.tgz?v=3":
   version "511.0.0"
+  uid a8f5dad80556a8dda0216e4119adf625189e3923
+  resolved "https://api.observablehq.com/@robinl/my-flights.tgz?v=3#a8f5dad80556a8dda0216e4119adf625189e3923"
 
 "@robinl/spark-explain@https://api.observablehq.com/@robinl/spark-explain.tgz?v=3":
   version "647.0.0"
+  uid "6f7d967beb674ae0fa88da7b6f38dabc9aa559a5"
+  resolved "https://api.observablehq.com/@robinl/spark-explain.tgz?v=3#6f7d967beb674ae0fa88da7b6f38dabc9aa559a5"
 
 "@robinl/understanding-the-spark-ui-by-example-sorting-data@https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-sorting-data@269.tgz?v=3":
   version "269.0.0"
+  uid "197abdc6d42dabb375711ffcd06639f9bec0be1e"
+  resolved "https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-sorting-data@269.tgz?v=3#197abdc6d42dabb375711ffcd06639f9bec0be1e"
 
 "@robinl/understanding-the-spark-ui-by-example-the-left-join@https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-the-left-join.tgz?v=3":
   version "221.0.0"
+  uid "968b9b1a5a2733e06d6bb9f69ca3b4a64ffac652"
+  resolved "https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-the-left-join.tgz?v=3#968b9b1a5a2733e06d6bb9f69ca3b4a64ffac652"
 
 "@robinl/unsupervised-probabalistic-data-matching-using-the-expec@https://api.observablehq.com/@robinl/unsupervised-probabalistic-data-matching-using-the-expec.tgz?v=3":
   version "1040.0.0"
+  uid "6f10bdb3c920812d0f0905f06ca74f0ef2ea3a08"
+  resolved "https://api.observablehq.com/@robinl/unsupervised-probabalistic-data-matching-using-the-expec.tgz?v=3#6f10bdb3c920812d0f0905f06ca74f0ef2ea3a08"
 
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
@@ -1464,9 +1482,9 @@ acorn-jsx@^5.1.0:
   integrity sha512-tMUqwBWfLFbJbizRmEcWSLw6HnFzfdJs2sOJEOwwtVPMoH/0Ay+E703oZz78VSXZiiDcZrQ5XKjPIUQixhmgVw==
 
 acorn@^6.2.1:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.3.0.tgz#0087509119ffa4fc0a0041d1e93a417e68cb856e"
-  integrity sha512-/czfa8BwS88b9gWQVhc8eknunSA2DoJpJyTQkhheIf5E48u1N0R4q/YxxsAeqRrmK9TQ/uYfgLDfZo91UlANIA==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 acorn@^7.1.0:
   version "7.1.0"
