@@ -1081,31 +1081,49 @@
     warning "^3.0.0"
 
 "@robinl/energy-usage-calculator-for-everyday-activities@https://api.observablehq.com/@robinl/energy-usage-calculator-for-everyday-activities.tgz?v=3":
-  version "557.0.0"
+  version "566.0.0"
+  uid ab6477702136439ff40224966aec82e2c5e2c54e
+  resolved "https://api.observablehq.com/@robinl/energy-usage-calculator-for-everyday-activities.tgz?v=3#ab6477702136439ff40224966aec82e2c5e2c54e"
 
 "@robinl/flight-distance-calculator@https://api.observablehq.com/@robinl/flight-distance-calculator.tgz?v=3":
-  version "1067.0.0"
+  version "1090.0.0"
+  uid e14909364045bba011f8c4fb6ca0860fbc846919
+  resolved "https://api.observablehq.com/@robinl/flight-distance-calculator.tgz?v=3#e14909364045bba011f8c4fb6ca0860fbc846919"
 
 "@robinl/how-much-should-carbon-offsetting-cost@https://api.observablehq.com/@robinl/how-much-should-carbon-offsetting-cost.tgz?v=3":
-  version "472.0.0"
+  version "478.0.0"
+  uid "0589f17e76144058dfd6e20abc6233691aded010"
+  resolved "https://api.observablehq.com/@robinl/how-much-should-carbon-offsetting-cost.tgz?v=3#0589f17e76144058dfd6e20abc6233691aded010"
 
 "@robinl/interactive-blogging-with-observable-notebooks-and-gatsb@https://api.observablehq.com/@robinl/interactive-blogging-with-observable-notebooks-and-gatsb.tgz?v=3":
   version "518.0.0"
+  uid "6b546ed3798083ef3cd05b2d2cb02978e1befba5"
+  resolved "https://api.observablehq.com/@robinl/interactive-blogging-with-observable-notebooks-and-gatsb.tgz?v=3#6b546ed3798083ef3cd05b2d2cb02978e1befba5"
 
 "@robinl/my-flights@https://api.observablehq.com/@robinl/my-flights.tgz?v=3":
-  version "511.0.0"
+  version "514.0.0"
+  uid "46f82ecb6befbd2efe18dae919ea8eb93d891e7d"
+  resolved "https://api.observablehq.com/@robinl/my-flights.tgz?v=3#46f82ecb6befbd2efe18dae919ea8eb93d891e7d"
 
 "@robinl/spark-explain@https://api.observablehq.com/@robinl/spark-explain.tgz?v=3":
   version "647.0.0"
+  uid "76003545ff883fe915732615445073da90b71ad5"
+  resolved "https://api.observablehq.com/@robinl/spark-explain.tgz?v=3#76003545ff883fe915732615445073da90b71ad5"
 
 "@robinl/understanding-the-spark-ui-by-example-sorting-data@https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-sorting-data@269.tgz?v=3":
   version "269.0.0"
+  uid "5b24582f4e7491bf14b217cdcc1b804168e113ae"
+  resolved "https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-sorting-data@269.tgz?v=3#5b24582f4e7491bf14b217cdcc1b804168e113ae"
 
 "@robinl/understanding-the-spark-ui-by-example-the-left-join@https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-the-left-join.tgz?v=3":
   version "221.0.0"
+  uid "77806974c4fc36b0e4dcba6b4d4d64396f23412c"
+  resolved "https://api.observablehq.com/@robinl/understanding-the-spark-ui-by-example-the-left-join.tgz?v=3#77806974c4fc36b0e4dcba6b4d4d64396f23412c"
 
 "@robinl/unsupervised-probabalistic-data-matching-using-the-expec@https://api.observablehq.com/@robinl/unsupervised-probabalistic-data-matching-using-the-expec.tgz?v=3":
-  version "1040.0.0"
+  version "1041.0.0"
+  uid "35083dd0c74b83b5149432a5e47a178e4a8dd162"
+  resolved "https://api.observablehq.com/@robinl/unsupervised-probabalistic-data-matching-using-the-expec.tgz?v=3#35083dd0c74b83b5149432a5e47a178e4a8dd162"
 
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
@@ -9411,9 +9429,9 @@ querystring@0.2.0, querystring@^0.2.0:
   integrity sha1-sgmEkgO7Jd+CDadW50cAWHhSFiA=
 
 querystringify@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.1.1.tgz#60e5a5fd64a7f8bfa4d2ab2ed6fdf4c85bad154e"
-  integrity sha512-w7fLxIRCRT7U8Qu53jQnJyPkYZIaR4n5151KMfcJlO/A9397Wxb1amJvROTK6TOnp7PfoAmg/qXiNHI+08jRfA==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.2.0.tgz#3345941b4153cb9d082d8eee4cda2016a9aef7f6"
+  integrity sha512-FIqgj2EUvTa7R50u0rGsyTftzjYmv/a3hO345bZNrqabNqjtgiDMgmo4mkUjd+nzU5oF3dClKqFIPUKybUyqoQ==
 
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
   version "2.1.0"
@@ -11716,9 +11734,9 @@ url-parse-lax@^3.0.0:
     prepend-http "^2.0.0"
 
 url-parse@^1.1.8, url-parse@^1.4.3:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
-  integrity sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==
+  version "1.5.7"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.7.tgz#00780f60dbdae90181f51ed85fb24109422c932a"
+  integrity sha512-HxWkieX+STA38EDk7CE9MEryFeHCKzgagxlGvsdS7WBImq9Mk+PGwiT56w82WI3aicwJA8REp42Cxo98c8FZMA==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
